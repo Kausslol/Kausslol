@@ -6,6 +6,7 @@
 - **Sigma Client**: https://sigmaclient.site
 <img src="./sigma.png" alt="rizz2" width="400" />
 - **Kauss's Games**: https://games.kauss.lol
+<img src="./lol.png" alt="rizz3" width="400" />
 
 ---
 

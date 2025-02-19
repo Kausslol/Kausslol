@@ -1,12 +1,13 @@
+## Some Projects I Work On
 
-## Some projects I work on 
+- **[Starlike Client](https://git.webmc.xyz/starlike-client)**  
+  <img src="./thing.png" alt="Starlike Client" width="400" />
 
-- **Starlike Client**: https://git.webmc.xyz/starlike-client
-<img src="./thing.png" alt="rizz" width="400" />
-- **Sigma Client**: https://sigmaclient.site
-<img src="./sigma.png" alt="rizz2" width="400" />
-- **Kauss's Games**: https://games.kauss.lol
-<img src="./lol.png" alt="rizz3" width="400" />
+- **[Sigma Client](https://sigmaclient.site)**  
+  <img src="./sigma.png" alt="Sigma Client" width="400" />
+
+- **[Kauss's Games](https://games.kauss.lol)**  
+  <img src="./lol.png" alt="Kauss's Games" width="400" />
 
 ---
 
@@ -23,4 +24,3 @@
  - eaglercraft is pretty cool, so i take interest in working on clients for that.
  - chicken sandwiches are nice
  - homebrewing is my jam, hardware modding too. 
- - 

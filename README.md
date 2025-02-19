@@ -2,9 +2,9 @@
 ## Some projects I work on 
 
 - **Starlike Client**: https://git.webmc.xyz/starlike-client
-- 
+  ./thing.png
 - **Sigma Client**: https://sigmaclient.site
-- https://preview.redd.it/sigma-client-release-v0-kyqjwx4aonje1.png?width=1440&format=png&auto=webp&s=22d6154e51f5fb03db191a638c580c5d192a1ae6
+./sigma.png
 - **Kauss's Games**: https://games.kauss.lol
 
 ---
